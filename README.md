@@ -42,4 +42,4 @@ Possible Extensions
 Add encryption for PIN storage.
 Develop a GUI for a more interactive user experience.
 Integrate with a bank server simulation for real-time data access.
-This project showcases fundamental banking operations with a clear user interface while teaching the essentials of data structures and C++ programming.
+This project showcases fundamental banking operations with a clear user interface while teaching the essentials of data structures and C++ programming
